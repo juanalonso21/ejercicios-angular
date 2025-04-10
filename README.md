@@ -1,7 +1,7 @@
 # EjerciciosAngular
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
-
+EN ESTE PROYECTO SE PUEDEN VER LOS DISTINTOS EJERCICIOS DE LEARN ANGULAR QUE SE RENDERIZAN EN LOS DISTINTOS COMPONENTES CREADOS CON SU RESPECTIVO NUMERO TEMPORALMENTE LOS HE IDO PROBANDO PERO EL QUE SE RENDERIZA FINALMENTE ES EL app.component ORIGINAL.
 ## Development server
 
 To start a local development server, run:

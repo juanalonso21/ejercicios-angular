@@ -1,3 +1,4 @@
+// Ejercicio 18: Formulario con validacion de los campos para que no se pueda enviar si no cumplen los requisitos necesarios
 import {Component} from '@angular/core';
 import {FormGroup, FormControl} from '@angular/forms';
 import {ReactiveFormsModule, Validators} from '@angular/forms';
