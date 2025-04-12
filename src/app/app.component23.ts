@@ -1,3 +1,4 @@
+// Ejercicio 23: Pipe personalizado
 import {Component} from '@angular/core';
 import {ReversePipe} from './pipes/reverse.pipe';
 
